@@ -1,0 +1,54 @@
+{
+  "title": "Hunter x Hunter",
+  "description": "",
+  "artist": "",
+  "author": "Yoshihiro Togashi",
+  "cover": "https://static.wikia.nocookie.net/hunterxhunter/images/7/71/Volume_38_cover.png/revision/latest?cb=20240819111920",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1772046771",
+      "groups": {
+        "Eleven": [
+          "https://cdn.imgchest.com/files/03b0aba83c43.png",
+          "https://cdn.imgchest.com/files/fd1cf4786b53.png",
+          "https://cdn.imgchest.com/files/713116cf97c5.png",
+          "https://cdn.imgchest.com/files/862ddb584d7a.png",
+          "https://cdn.imgchest.com/files/da79cdf6de96.png",
+          "https://cdn.imgchest.com/files/105a0ece38ee.png",
+          "https://cdn.imgchest.com/files/5c21f5a09af3.png",
+          "https://cdn.imgchest.com/files/313bc8086085.png",
+          "https://cdn.imgchest.com/files/52d304700e98.png",
+          "https://cdn.imgchest.com/files/50584c3dcca3.png",
+          "https://cdn.imgchest.com/files/49096bd01d0f.png",
+          "https://cdn.imgchest.com/files/06d77a0392f9.png",
+          "https://cdn.imgchest.com/files/8df93c69f7c8.png",
+          "https://cdn.imgchest.com/files/e275322113f9.png",
+          "https://cdn.imgchest.com/files/34d553df9a26.png",
+          "https://cdn.imgchest.com/files/00865ce305fd.png",
+          "https://cdn.imgchest.com/files/0adc0c25cf69.png",
+          "https://cdn.imgchest.com/files/6b22ae82acca.png",
+          "https://cdn.imgchest.com/files/41edfb30a059.png",
+          "https://cdn.imgchest.com/files/599649ccf164.png",
+          "https://cdn.imgchest.com/files/567afb8be639.png",
+          "https://cdn.imgchest.com/files/dadb116fa73d.png",
+          "https://cdn.imgchest.com/files/b8f21f7c57f4.png",
+          "https://cdn.imgchest.com/files/07f5a0f7a3e7.png",
+          "https://cdn.imgchest.com/files/5bf2bc813165.png",
+          "https://cdn.imgchest.com/files/8540d0f32201.png",
+          "https://cdn.imgchest.com/files/116c5acd79eb.png",
+          "https://cdn.imgchest.com/files/53fc5a9292d4.png",
+          "https://cdn.imgchest.com/files/569e2545508d.png",
+          "https://cdn.imgchest.com/files/83697284030b.png",
+          "https://cdn.imgchest.com/files/f593b178e4d7.png",
+          "https://cdn.imgchest.com/files/e839232a9ceb.png",
+          "https://cdn.imgchest.com/files/81cc278f8e93.png",
+          "https://cdn.imgchest.com/files/ea5ca734977b.png",
+          "https://cdn.imgchest.com/files/08af2f840fb6.png",
+          "https://cdn.imgchest.com/files/b998ded1f5de.png"
+        ]
+      }
+    }
+  }
+}
