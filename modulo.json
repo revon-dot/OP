@@ -4,36 +4,5 @@
   "artist": "Iwasaki Yuji",
   "author": "Akutami Gege",
   "cover": "https://preview.redd.it/jujutsu-kaisen-modulo-volume-2-cover-v0-2nne2doevrjg1.jpeg?auto=webp&s=2fd7b9689b94c97b0f360322371facf9db4ad8a0",
-  "chapters": {
-    "24": {
-      "title": "Um Raio de Esperança ou...",
-      "volume": "3",
-      "last_updated": "1772311598",
-      "groups": {
-        "Eleven": [
-          "https://cdn.imgchest.com/files/8e75b570f4e3.png",
-          "https://cdn.imgchest.com/files/98123b8e4d24.png",
-          "https://cdn.imgchest.com/files/44e4c1727236.png",
-          "https://cdn.imgchest.com/files/4d6d25c16826.png",
-          "https://cdn.imgchest.com/files/d010dfbe3567.png",
-          "https://cdn.imgchest.com/files/bebe4acfdbd4.png",
-          "https://cdn.imgchest.com/files/05284ba2c221.png",
-          "https://cdn.imgchest.com/files/deb503919349.png",
-          "https://cdn.imgchest.com/files/157b0410ca31.png",
-          "https://cdn.imgchest.com/files/cafcc8497932.png",
-          "https://cdn.imgchest.com/files/9b6d1da484cd.png",
-          "https://cdn.imgchest.com/files/102891f93dea.png",
-          "https://cdn.imgchest.com/files/4fcf0dc8977a.png",
-          "https://cdn.imgchest.com/files/d59fab4f3834.png",
-          "https://cdn.imgchest.com/files/f10557d2d0d7.png",
-          "https://cdn.imgchest.com/files/fda8d125e037.png",
-          "https://cdn.imgchest.com/files/5c8b6c898f50.png",
-          "https://cdn.imgchest.com/files/f95203b0db74.png",
-          "https://cdn.imgchest.com/files/8cc7601120f3.png",
-          "https://cdn.imgchest.com/files/3f2c47c50e3f.png",
-          "https://cdn.imgchest.com/files/aae497a60e74.png"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
